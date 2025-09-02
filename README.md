@@ -74,11 +74,11 @@ Two alarms were created:
 Custom dashboards visualize real-time metrics from CloudWatch:
 
 - **CPU Metrics**: CPU usage, CPU credit balance
-<br><img src="https://github.com/Barbarossa01/AWS-VPC-and-EC2-Monitoring-with-CloudWatch-and-Grafana/blob/main/images/Grafana_1" alt="grafana">
+<br><img src="https://github.com/Barbarossa01/AWS-VPC-and-EC2-Monitoring-with-CloudWatch-and-Grafana/blob/main/images/Grafana_1.PNG" alt="grafana">
 - **Memory Metrics**: RAM usage %
-<br><img src="https://github.com/Barbarossa01/AWS-VPC-and-EC2-Monitoring-with-CloudWatch-and-Grafana/blob/main/images/Grafana_2" alt="grafana">
+<br><img src="https://github.com/Barbarossa01/AWS-VPC-and-EC2-Monitoring-with-CloudWatch-and-Grafana/blob/main/images/Grafana_2.PNG" alt="grafana">
 - **Network Metrics**: Network traffic, packets, established TCP connections
-<br><img src="https://github.com/Barbarossa01/AWS-VPC-and-EC2-Monitoring-with-CloudWatch-and-Grafana/blob/main/images/Grafana_3" alt="grafana">
+<br><img src="https://github.com/Barbarossa01/AWS-VPC-and-EC2-Monitoring-with-CloudWatch-and-Grafana/blob/main/images/Grafana_3.PNG" alt="grafana">
 - **Disk Metrics**: Disk usage
 - **Status Metrics**: EC2 StatusCheckFailed
 
