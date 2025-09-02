@@ -122,10 +122,3 @@ Screenshots are included in the `screenshots/` folder
 - Shows how CloudWatch and Grafana can be used together for real-time monitoring.
 - Alerts ensure immediate notification for critical system failures.
 
----
-
-## Optional Enhancements
-- Automate deployment using **Terraform** or **AWS CloudFormation**
-- Expand monitoring for additional EC2 instances or services
-- Integrate with SNS topics for more advanced notifications
-- Configure log retention and centralized log analysis
